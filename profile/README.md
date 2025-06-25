@@ -38,7 +38,7 @@
   👉 <a href="https://help.fury.bot/">https://help.fury.bot/</a>
 </p>
 <hr>
-## 🚀 One-Click Deployment
+<h1 align="center">🚀 One-Click Deployment</h1>
 
 You can deploy **Raze.bot** instantly using either **Vercel** or **Netlify** with the buttons below:
 
