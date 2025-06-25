@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Raze on Discord" />
   </a>
 </p>
+
 > 🛠️ This project was developed by the team at [**Raze.bot**](https://raze.bot) using the open-source [**Fury SDKs**](https://github.com/furydotbot) to power its backend integrations and blockchain interactions.
 
----
 <hr>
 <h2 align="center">📘 How to Use</h2>
 <p align="center">
