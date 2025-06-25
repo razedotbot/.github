@@ -37,7 +37,7 @@
   To get help, report issues, or find answers to common questions about Raze, check out our support center:<br><br>
   👉 <a href="https://help.fury.bot/">https://help.fury.bot/</a>
 </p>
-
+<hr>
 ## 🚀 One-Click Deployment
 
 You can deploy **Raze.bot** instantly using either **Vercel** or **Netlify** with the buttons below:
