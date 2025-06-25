@@ -40,7 +40,7 @@
 <hr>
 <h1 align="center">🚀 One-Click Deployment</h1>
 <p align="center">
-You can deploy **Raze.bot** instantly using either **Vercel** or **Netlify** with the buttons below:</p>
+You can deploy Raze.bot instantly using either Vercel or Netlify with the buttons below:</p>
 
 <div align="center">
 
