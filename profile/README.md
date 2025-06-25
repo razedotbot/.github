@@ -29,7 +29,7 @@
 <hr>
 <h2 align="center">📘 How to Use</h2>
 <p align="center">
-  To learn how to use Raze UI and its SDKs, please visit the following link:<br><br>
+  To learn how to use Raze UI:<br><br>
   👉 <a href="https://docs.raze.bot/">https://docs.raze.bot/</a>
 </p>
 <h2 align="center">🛠️ Need Help?</h2>
