@@ -37,6 +37,17 @@
   To get help, report issues, or find answers to common questions about Raze, check out our support center:<br><br>
   👉 <a href="https://help.fury.bot/">https://help.fury.bot/</a>
 </p>
+
+## 🚀 One-Click Deployment
+
+You can deploy **Raze.bot** instantly using either **Vercel** or **Netlify** with the buttons below:
+
+<div align="center">
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/furydotbot/raze.bot)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/furydotbot/raze.bot)
+
+</div>
 <hr>
 <h2 align="center">🤝 Built by Raze</h2>
 <table align="center">
