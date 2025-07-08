@@ -19,7 +19,7 @@
   <a href="https://x.com/razedotbot" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Raze on X" />
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://t.me/razesolana" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Raze on Telegram" />
   </a>
   <a href="https://discord.gg/" target="_blank">
