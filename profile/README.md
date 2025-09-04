@@ -65,5 +65,9 @@ You can deploy Raze.bot instantly using either Vercel or Netlify with the button
       <td><a href="https://github.com/razedotbot/solana-ui"><code>raze.bot</code></a></td>
       <td>Frontend interface by <strong>Raze.bot</strong> Solana Multi Wallet Trading Platform - Pump.fun • Raydium • Launchpad • Letsbonk</td>
     </tr>
+    <tr>
+  <td><a href="https://github.com/razedotbot/trading-api"><code>raze api</code></a></td>
+  <td>A self-hosted Express.js API server for automated Solana token trading using the Fury Bot service. This API provides endpoints for buying and selling tokens with support for multiple wallets and transaction bundling.</td>
+</tr>
   </tbody>
 </table>
